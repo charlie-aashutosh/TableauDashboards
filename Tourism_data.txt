@@ -1,0 +1,46 @@
+City	State	Attraction	Visitors (in thousands)	Revenue (in million USD)	Avg. Length of Stay (days)	Hotels (count)	Avg. Hotel Price (USD)	Restaurants (count)	Avg. Meal Price (USD)	Transportation (count)	Avg. Transportation Cost (USD)	Rating (out of 5)
+Delhi	Delhi	Red Fort	1500	300	3	2000	100	1500	10	50	20	4.5
+Mumbai	Maharashtra	Gateway of India	2000	400	4	2500	120	1800	12	60	25	4.4
+Jaipur	Rajasthan	Amber Fort	1200	250	2	1500	90	1000	8	40	15	4.6
+Agra	Uttar Pradesh	Taj Mahal	1800	350	2.5	1700	110	1300	9	45	18	4.8
+Goa	Goa	Baga Beach	2200	500	5	3000	150	2000	15	70	30	4.7
+Bangalore	Karnataka	Lalbagh Botanical Garden	1300	280	3.5	1800	100	1200	10	55	22	4.3
+Chennai	Tamil Nadu	Marina Beach	1400	300	3	1600	95	1100	8	50	20	4.2
+Kochi	Kerala	Fort Kochi	1100	220	4	1400	80	1000	7	35	18	4.6
+Udaipur	Rajasthan	City Palace	1000	200	2.5	1200	85	900	6	30	15	4.5
+Varanasi	Uttar Pradesh	Kashi Vishwanath Temple	1600	320	2	1400	95	1200	9	40	18	4.7
+Kolkata	West Bengal	Victoria Memorial	1500	300	3	1700	100	1300	10	45	22	4.4
+Shimla	Himachal Pradesh	Mall Road	1000	200	4	1200	90	900	8	35	20	4.3
+Jodhpur	Rajasthan	Mehrangarh Fort	900	180	2	1100	80	800	6	30	15	4.8
+Hyderabad	Telangana	Charminar	1700	350	3.5	1900	110	1400	11	50	25	4.6
+Amritsar	Punjab	Golden Temple	1400	280	2.5	1300	95	1100	9	40	18	4.7
+Pune	Maharashtra	Shaniwar Wada	1100	220	3	1500	85	1000	8	35	18	4.5
+Mysore	Karnataka	Mysore Palace	1200	240	2.5	1400	90	1100	7	40	20	4.4
+Lucknow	Uttar Pradesh	Bara Imambara	1300	260	2.5	1600	95	1200	8	45	22	4.3
+Ahmedabad	Gujarat	Sabarmati Ashram	1400	280	3	1700	100	1300	9	50	25	4.2
+Pondicherry	Puducherry	Auroville	1000	200	4	1300	80	900	7	35	18	4.6
+Thiruvananthapuram	Kerala	Padmanabhaswamy Temple	1100	220	3.5	1500	90	1100	8	40	20	4.7
+Indore	Madhya Pradesh	Rajwada	1000	200	2	1200	85	800	6	30	15	4.8
+Guwahati	Assam	Kamakhya Temple	1200	240	2.5	1400	95	1000	7	35	18	4.5
+Visakhapatnam	Andhra Pradesh	Ramakrishna Beach	1500	300	3.5	1600	100	1200	8	45	22	4.4
+Chandigarh	Punjab	Rock Garden	1100	220	2.5	1300	90	1000	9	40	20	4.3
+Bhubaneswar	Odisha	Lingaraj Temple	1400	280	3	1500	95	1100	8	50	25	4.2
+Nainital	Uttarakhand	Naini Lake	1200	240	2.5	1400	90	1000	7	35	18	4.7
+Raipur	Chhattisgarh	Nandan Van Zoo	1000	200	2	1200	85	800	6	30	15	4.6
+Patna	Bihar	Golghar	1100	220	2.5	1300	90	1000	8	35	18	4.5
+Srinagar	Jammu and Kashmir	Dal Lake	1800	360	4.5	2000	120	1500	12	55	28	4.8
+Nagpur	Maharashtra	Deekshabhoomi	1200	240	2.5	1400	90	1000	7	40	20	4.3
+Vadodara	Gujarat	Laxmi Vilas Palace	1000	200	2	1200	85	800	6	30	15	4.2
+Allahabad	Uttar Pradesh	Sangam	1300	260	2.5	1500	90	1100	8	35	18	4.6
+Jabalpur	Madhya Pradesh	Bhedaghat	1100	220	3	1300	80	1000	7	40	20	4.4
+Jaisalmer	Rajasthan	Jaisalmer Fort	1000	200	2	1200	85	900	6	30	15	4.7
+Kanyakumari	Tamil Nadu	Vivekananda Rock Memorial	1400	280	2.5	1600	95	1200	9	45	22	4.5
+Tirupati	Andhra Pradesh	Tirumala Venkateswara Temple	1500	300	3	1700	100	1300	10	50	25	4.3
+Haridwar	Uttarakhand	Har Ki Pauri	1200	240	2.5	1400	90	1000	8	35	18	4.8
+Jammu	Jammu and Kashmir	Vaishno Devi	1600	320	2.5	1800	110	1400	9	40	20	4.6
+Bhopal	Madhya Pradesh	Upper Lake	1100	220	2.5	1300	80	1000	7	35	18	4.5
+Gorakhpur	Uttar Pradesh	Gorakhnath Temple	1300	260	2	1500	90	1100	8	40	20	4.4
+Madurai	Tamil Nadu	Meenakshi Amman Temple	1400	280	3	1600	95	1200	9	45	22	4.3
+Thane	Maharashtra	Upvan Lake	1000	200	2.5	1200	85	800	6	30	15	4.2
+Kozhikode	Kerala	Kozhikode Beach	1100	220	3	1300	90	1000	7	35	18	4.6
+Warangal	Telangana	Warangal Fort	1000	200	2	1200	85	800	6	30	15	4.5
